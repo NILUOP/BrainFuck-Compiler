@@ -13,6 +13,8 @@
 // Usage       : ./BrainFuck_compiler program.bf [memory_size]
 // 
 // ===============================================================================================================================================
+
+
 #include <iostream>
 #include <string>
 #include <vector>
